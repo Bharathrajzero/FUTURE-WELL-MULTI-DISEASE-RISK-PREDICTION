@@ -1,0 +1,35 @@
+Name,Timestamp,Result,Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,Slope,CA,Thal
+shreyas,2025-10-03 20:16:35,No Heart Disease,0.0,0,0,0.04,0.06,0,0,0.05,0,0.06,0,0.02,0
+karthik,2025-10-05 15:20:50,Heart Disease,45.0,1,0,120.0,200.0,1,0,150.0,0,1.0,0,0.0,0
+shreyas ghegde,2025-10-08 11:41:00,Heart Disease,45.0,1,0,120.0,200.0,1,0,150.0,0,1.0,0,0.0,0
+shreyas ghegde,2025-10-08 11:41:10,Heart Disease,45.0,1,0,120.0,200.0,1,0,150.0,0,1.0,0,0.0,0
+shreyas ghegde,2025-10-08 11:42:59,Heart Disease,45.0,1,0,120.0,200.0,1,0,150.0,0,1.0,0,0.0,0
+shreyas ghegde,2025-10-08 11:43:29,Heart Disease,45.0,1,0,120.0,200.0,1,0,150.0,0,1.0,0,0.0,0
+Bharath,2025-10-09 21:21:28,Heart Disease,25.0,1,0,120.0,200.0,0,0,150.0,0,1.0,0,0.0,0
+dark123,2025-10-09 21:34:01,Heart Disease,45.0,1,0,120.0,200.0,0,0,150.0,0,1.0,0,0.0,0
+b,2025-10-09 22:00:06,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+,2025-10-15 14:39:46,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+sp,2025-10-15 14:40:09,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+,2025-10-21 13:28:37,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+,2025-10-27 22:10:32,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+Ashish,2025-11-02 09:49:54,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,Yes,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+bharath,2025-11-09 21:05:23,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+bharath,2025-11-09 21:06:28,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+,2025-11-09 21:29:26,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+,2025-11-09 21:34:03,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+dark,2025-11-09 21:34:35,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+dark,2025-11-09 21:35:39,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+dark,2025-11-09 21:38:05,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+Bharath Raj,2025-11-09 22:11:03,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+bharathraj,2025-11-10 19:43:51,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+bharathraj,2025-11-10 19:47:28,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+bharathraj,2025-11-10 19:56:16,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+bharathraj,2025-11-10 20:05:49,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+BHARATH,2025-11-13 21:55:53,Heart Disease,21.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+BHARATH RAJ,2025-11-22 15:44:27,Heart Disease,21.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+,2025-11-23 22:37:15,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+,2025-11-24 02:24:44,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+bharath,2025-11-28 21:32:19,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+,2025-12-01 01:28:39,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+,2025-12-01 01:35:48,Heart Disease,45.0,Male,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal
+shashiprabha,2025-12-01 12:23:01,Heart Disease,21.0,Female,Typical Angina,120.0,200.0,No,Normal,150.0,No,1.0,Upsloping,0.0,Normal

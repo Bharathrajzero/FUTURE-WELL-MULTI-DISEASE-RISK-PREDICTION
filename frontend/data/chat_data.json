@@ -1,0 +1,449 @@
+{
+    "doctors": [
+        {
+            "username": "Dr.Bharath",
+            "password": "152004",
+            "name": "Dr. Bharath",
+            "specialty": "Cardiologist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Kankanady"
+        },
+        {
+            "username": "Dr.Karthik",
+            "password": "272004",
+            "name": "Dr. Karthik",
+            "specialty": "Orthopaedist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Kuloor"
+        },
+        {
+            "username": "Dr.Shreyas",
+            "password": "212004",
+            "name": "Dr. Shreyas",
+            "specialty": "Neurologist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Neerumarga"
+        },
+        {
+            "username": "Dr.Ashish",
+            "password": "152004",
+            "name": "Dr. Ashish",
+            "specialty": "Dermatologist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Kulshekara"
+        },
+        {
+            "username": "Dr.Jathin",
+            "password": "112005",
+            "name": "Dr. Jathin",
+            "specialty": "Medicine",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "State Bank"
+        },
+        {
+            "username": "Dr.Sahana",
+            "password": "340001",
+            "name": "Dr. Sahana",
+            "specialty": "Gynecologist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Bejai"
+        },
+        {
+            "username": "Dr.Manoj",
+            "password": "340002",
+            "name": "Dr. Manoj",
+            "specialty": "Orthopaedist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Kadri"
+        },
+        {
+            "username": "Dr.Namrata",
+            "password": "340003",
+            "name": "Dr. Namrata",
+            "specialty": "Dermatologist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Urwa"
+        },
+        {
+            "username": "Dr.Rajiv",
+            "password": "340004",
+            "name": "Dr. Rajiv",
+            "specialty": "Cardiologist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Bendoor"
+        },
+        {
+            "username": "Dr.Amrita",
+            "password": "340005",
+            "name": "Dr. Amrita",
+            "specialty": "Pediatrician",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Valencia"
+        },
+        {
+            "username": "Dr.Santhosh",
+            "password": "340006",
+            "name": "Dr. Santhosh",
+            "specialty": "Neurologist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Pumpwell"
+        },
+        {
+            "username": "Dr.Keerthi",
+            "password": "340007",
+            "name": "Dr. Keerthi",
+            "specialty": "ENT Specialist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Padil"
+        },
+        {
+            "username": "Dr.Ramesh",
+            "password": "340008",
+            "name": "Dr. Ramesh",
+            "specialty": "Psychiatrist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Derebail"
+        },
+        {
+            "username": "Dr.Sneha",
+            "password": "340009",
+            "name": "Dr. Sneha",
+            "specialty": "General Surgeon",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Surathkal"
+        },
+        {
+            "username": "Dr.Vivek",
+            "password": "340010",
+            "name": "Dr. Vivek",
+            "specialty": "Oncologist",
+            "state": "Karnataka",
+            "city": "Mangaluru",
+            "location": "Mulki"
+        },
+        {
+            "username": "Dr.Ananya",
+            "password": "310001",
+            "name": "Dr. Ananya",
+            "specialty": "Pediatrician",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "location": "Indiranagar"
+        },
+        {
+            "username": "Dr.Rajesh",
+            "password": "310002",
+            "name": "Dr. Rajesh",
+            "specialty": "Cardiologist",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "location": "Whitefield"
+        },
+        {
+            "username": "Dr.Smitha",
+            "password": "310003",
+            "name": "Dr. Smitha",
+            "specialty": "Gynecologist",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "location": "Koramangala"
+        },
+        {
+            "username": "Dr.Vikram",
+            "password": "310004",
+            "name": "Dr. Vikram",
+            "specialty": "Orthopaedist",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "location": "Malleshwaram"
+        },
+        {
+            "username": "Dr.Pooja",
+            "password": "310005",
+            "name": "Dr. Pooja",
+            "specialty": "Dermatologist",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "location": "Jayanagar"
+        },
+        {
+            "username": "Dr.Arun",
+            "password": "310006",
+            "name": "Dr. Arun",
+            "specialty": "ENT Specialist",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "location": "Hebbal"
+        },
+        {
+            "username": "Dr.Meera",
+            "password": "310007",
+            "name": "Dr. Meera",
+            "specialty": "Psychiatrist",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "location": "BTM Layout"
+        },
+        {
+            "username": "Dr.Sandeep",
+            "password": "310008",
+            "name": "Dr. Sandeep",
+            "specialty": "Oncologist",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "location": "Rajajinagar"
+        },
+        {
+            "username": "Dr.Divya",
+            "password": "310009",
+            "name": "Dr. Divya",
+            "specialty": "Endocrinologist",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "location": "Banashankari"
+        },
+        {
+            "username": "Dr.Nikhil",
+            "password": "310010",
+            "name": "Dr. Nikhil",
+            "specialty": "General Surgeon",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "location": "Yelahanka"
+        },
+        {
+            "username": "Dr.Prasad",
+            "password": "320001",
+            "name": "Dr. Prasad",
+            "specialty": "Cardiologist",
+            "state": "Karnataka",
+            "city": "Udupi",
+            "location": "Manipal"
+        },
+        {
+            "username": "Dr.Shruthi",
+            "password": "320002",
+            "name": "Dr. Shruthi",
+            "specialty": "Gynecologist",
+            "state": "Karnataka",
+            "city": "Udupi",
+            "location": "Santhekatte"
+        },
+        {
+            "username": "Dr.Mahesh",
+            "password": "320003",
+            "name": "Dr. Mahesh",
+            "specialty": "Orthopaedist",
+            "state": "Karnataka",
+            "city": "Udupi",
+            "location": "Malpe"
+        },
+        {
+            "username": "Dr.Kavya",
+            "password": "320004",
+            "name": "Dr. Kavya",
+            "specialty": "Dermatologist",
+            "state": "Karnataka",
+            "city": "Udupi",
+            "location": "Kundapura"
+        },
+        {
+            "username": "Dr.Rohit",
+            "password": "320005",
+            "name": "Dr. Rohit",
+            "specialty": "Neurologist",
+            "state": "Karnataka",
+            "city": "Udupi",
+            "location": "Brahmavar"
+        },
+        {
+            "username": "Dr.Soumya",
+            "password": "320006",
+            "name": "Dr. Soumya",
+            "specialty": "Pediatrician",
+            "state": "Karnataka",
+            "city": "Udupi",
+            "location": "Katapadi"
+        },
+        {
+            "username": "Dr.Ganesh",
+            "password": "320007",
+            "name": "Dr. Ganesh",
+            "specialty": "ENT Specialist",
+            "state": "Karnataka",
+            "city": "Udupi",
+            "location": "Shivalli"
+        },
+        {
+            "username": "Dr.Rekha",
+            "password": "320008",
+            "name": "Dr. Rekha",
+            "specialty": "Psychiatrist",
+            "state": "Karnataka",
+            "city": "Udupi",
+            "location": "Perampalli"
+        },
+        {
+            "username": "Dr.Sunil",
+            "password": "320009",
+            "name": "Dr. Sunil",
+            "specialty": "General Surgeon",
+            "state": "Karnataka",
+            "city": "Udupi",
+            "location": "Alevoor"
+        },
+        {
+            "username": "Dr.Asha",
+            "password": "320010",
+            "name": "Dr. Asha",
+            "specialty": "Oncologist",
+            "state": "Karnataka",
+            "city": "Udupi",
+            "location": "Moodlakatte"
+        },
+        {
+            "username": "Dr.Ramesh",
+            "password": "330001",
+            "name": "Dr. Ramesh",
+            "specialty": "Cardiologist",
+            "state": "Karnataka",
+            "city": "Mysore",
+            "location": "Vijayanagar"
+        },
+        {
+            "username": "Dr.Swati",
+            "password": "330002",
+            "name": "Dr. Swati",
+            "specialty": "Gynecologist",
+            "state": "Karnataka",
+            "city": "Mysore",
+            "location": "Saraswathipuram"
+        },
+        {
+            "username": "Dr.Harish",
+            "password": "330003",
+            "name": "Dr. Harish",
+            "specialty": "Orthopaedist",
+            "state": "Karnataka",
+            "city": "Mysore",
+            "location": "Kuvempunagar"
+        },
+        {
+            "username": "Dr.Lavanya",
+            "password": "330004",
+            "name": "Dr. Lavanya",
+            "specialty": "Dermatologist",
+            "state": "Karnataka",
+            "city": "Mysore",
+            "location": "Jayalakshmipuram"
+        },
+        {
+            "username": "Dr.Shashank",
+            "password": "330005",
+            "name": "Dr. Shashank",
+            "specialty": "Neurologist",
+            "state": "Karnataka",
+            "city": "Mysore",
+            "location": "Krishnamurthypuram"
+        },
+        {
+            "username": "Dr.Priya",
+            "password": "330006",
+            "name": "Dr. Priya",
+            "specialty": "Pediatrician",
+            "state": "Karnataka",
+            "city": "Mysore",
+            "location": "Chamarajapuram"
+        },
+        {
+            "username": "Dr.Vinod",
+            "password": "330007",
+            "name": "Dr. Vinod",
+            "specialty": "ENT Specialist",
+            "state": "Karnataka",
+            "city": "Mysore",
+            "location": "Metagalli"
+        },
+        {
+            "username": "Dr.Neha",
+            "password": "330008",
+            "name": "Dr. Neha",
+            "specialty": "Psychiatrist",
+            "state": "Karnataka",
+            "city": "Mysore",
+            "location": "Bogadi"
+        },
+        {
+            "username": "Dr.Suresh",
+            "password": "330009",
+            "name": "Dr. Suresh",
+            "specialty": "General Surgeon",
+            "state": "Karnataka",
+            "city": "Mysore",
+            "location": "Nanjangud Road"
+        },
+        {
+            "username": "Dr.Kiran",
+            "password": "330010",
+            "name": "Dr. Kiran",
+            "specialty": "Oncologist",
+            "state": "Karnataka",
+            "city": "Mysore",
+            "location": "Chamundi Hill"
+        }
+    ],
+    "patients": [
+        {
+            "username": "Bharath",
+            "doctor": "Dr.Karthik"
+        },
+        {
+            "username": "bharath",
+            "doctor": "Dr.Karthik"
+        },
+        {
+            "username": "karthik",
+            "doctor": "Dr.Bharath"
+        }
+    ],
+    "chat_messages": [
+        {
+            "sender": "doctor",
+            "patient": "Bharath",
+            "doctor": "Dr.Karthik",
+            "message": "hi",
+            "media": null,
+            "timestamp": "2025-12-04T12:11:22"
+        },
+        {
+            "sender": "patient",
+            "patient": "bharath",
+            "doctor": "Dr.Karthik",
+            "message": "hlo sir",
+            "media": null,
+            "timestamp": "2025-12-05T12:50:19"
+        },
+        {
+            "sender": "patient",
+            "patient": "karthik",
+            "doctor": "Dr.Bharath",
+            "message": "hi",
+            "media": null,
+            "timestamp": "2025-12-05T20:51:45"
+        }
+    ]
+}
