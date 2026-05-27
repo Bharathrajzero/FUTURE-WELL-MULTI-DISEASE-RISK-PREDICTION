@@ -1,14 +1,2 @@
 Name,Timestamp,Result,AGE,BP,SPECIFIC_GRAVITY,ALBUMIN,SUGAR,BLOOD_GLUCOSE_RANDOM,BLOOD_UREA,SERIUM_CERATININE,SODIUM,POTASSIUM,HEMOGLOBIN,PACKED_CELL_VOLUME,WHITE_BLOOD_CELL_COUNT,RED_BLOOD_CELL_COUNT,Red Blood Cells,Pus Cells,Pus Cell Clumps,Bacteria,Hypertension,Diabetes Mellitus,Coronary Artery Disease,Appetite,Pedal Edema,Anemia
-BHARATH,2025-11-02 11:21:54,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,5,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-bharath,2025-11-09 21:12:26,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-,2025-11-09 21:22:22,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-,2025-11-09 21:26:28,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-,2025-11-09 21:26:50,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-Bharath Raj,2025-11-09 22:11:34,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-bharathraj,2025-11-10 20:07:02,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-,2025-11-22 19:58:34,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-,2025-11-26 22:41:05,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-bharath,2025-11-28 21:32:55,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-,2025-11-30 13:36:36,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-,2025-12-01 01:37:29,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
-,2025-12-01 01:42:13,No Kidney Disease,25,120,1.02,0,0,120,60,3,140,4,12,40,10000,4,Normal,Normal,Present,Present,Yes,Yes,Yes,Good,Yes,Yes
+
