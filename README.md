@@ -1,4 +1,4 @@
-# Future Well: MULTI DISEASE RISK PREDICTION
+# FUTURE WELL: MULTI DISEASE RISK PREDICTION
 
 **Future Well** is an intelligent, high-performance web portal built using the Streamlit framework. It serves as an enterprise entry point featuring secure multi-tier user classification paths. The portal intercepts user login packets, writes structural audit trails via a JSON tracking engine, and dynamically switches execution panels depending on administrative, clinical, or client privilege vectors.
 
