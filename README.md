@@ -123,6 +123,5 @@ GitHub: [Bharathrajzero](https://github.com/Bharathrajzero)
 
 ## 📜 License
 This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup Ltd.  
-See the `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]` file for details.
 
 ---
