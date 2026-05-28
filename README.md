@@ -115,6 +115,9 @@ if LOGGED_IN:
         show_user_dashboard(username)
 
 ```
+## 👨‍💻 Author
+Bharath Raj
+GitHub: https://github.com/Bharathrajzero
 
 ---
 
