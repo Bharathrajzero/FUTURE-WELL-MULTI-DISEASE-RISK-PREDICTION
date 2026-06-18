@@ -117,11 +117,11 @@ GitHub: [Bharathrajzero](https://github.com/Bharathrajzero)
 
 ## 📝 Compliance & Attribution
 - **Distribution Engine:** Internal Proprietary Platform  
-- **System Operations Framework:** Engineered and Maintained by **AlphaGroup Ltd** © 2025  
+- **System Operations Framework:** Engineered and Maintained by **AlphaGroup** © 2025  
 
 ---
 
 ## 📜 License
-This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup Ltd.  
+This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup.  
 
 ---
