@@ -1,79 +1,122 @@
 # FUTURE WELL: MULTI‑DISEASE RISK PREDICTION
 
-**Future Well** is an intelligent, high‑performance web portal built using the Streamlit framework. It serves as an enterprise entry point featuring secure multi‑tier user classification paths. The portal intercepts user login packets, writes structural audit trails via a JSON tracking engine, and dynamically switches execution panels depending on administrative, clinical, or client privilege vectors.
+**Future Well** is an intelligent, high‑performance enterprise healthcare web portal built using the Streamlit framework. It features secure multi‑tier user classification paths, intercepts user login packets, writes structural audit trails via a JSON tracking engine, and dynamically switches execution panels depending on administrative, clinical, or client privilege vectors. The platform integrates advanced machine learning architectures (including CatBoost) to provide predictive insights for multi-disease risks.
 
 ---
 
 ## ⚡ Core Platform Features
-- **Dynamic Role‑Based Access Control (RBAC):** Automated login UI state manager that queries session vectors and mounts distinct interfaces:
-  - **Administrative Dashboard (`admin`)** – Global cluster controls and system monitoring.
-  - **Clinical Console (`doctor`)** – Specialized operational viewports and patient triage tracking.
-  - **Client Portal (`user`)** – Tailored self‑service metric interfaces.
-- **Modern High‑Contrast Interface Design:** Custom Google Fonts styling with dynamic CSS animations and glowing neural brand asset tracking.
-- **Persistent Session Isolation Engine:** Flushes residual unencrypted browser memory frames and authorization keys on boot to prevent state leakage.
-- **Automated Audit Telemetry:** Backend logging pipeline records access events systematically into persistent structures.
+
+* **Dynamic Role‑Based Access Control (RBAC):** Automated login UI state manager that queries session vectors and mounts distinct interfaces based on user authorization.
+* **Advanced ML Prediction Pipeline:** Modular data preparation, feature engineering, and evaluation systems powered by production-ready models (including CatBoost and Pima analytics).
+* **Clinical Communication & Scheduling:** Integrated doctor-patient chat environments and specialized appointment matrices.
+* **Modern High‑Contrast Interface Design:** Custom Google Fonts styling with dynamic CSS animations, custom backgrounds, and glowing brand assets.
+* **Persistent Session Isolation Engine:** Flushes residual unencrypted browser memory frames and authorization keys on boot to prevent state leakage.
+* **Automated Audit & Transaction Telemetry:** Tracks global administration and user-specific analytical transactions across independent JSON storage layers.
+
+---
+
+## 🔐 Default Access Credentials
+
+For testing and deployment verification, use the following sandbox credentials:
+
+| Role | Username | Password | Notes / Ext. Ref |
+| --- | --- | --- | --- |
+| **Administrator** | `admin` | `admin123` | Global system control and transaction monitoring |
+| **Clinical Staff** | `doctor` | `doc123` | Assigned to **Dr. Bharath** (ID: `152004`) |
+| **Client / User** | `user` | *(Self-register)* | General patient health metric tracking |
+
+---
+
+## 📂 System Project Directory Structure
+
+```text
+├── requirements.txt               # Direct package dependency manifest
+├── data/                          # Secure localized patient records and datasets
+│   └── patientdata/               # Granular clinical data frames
+│
+├── code/                          # Production Machine Learning Core Pipeline
+│   ├── pima/                      # Diabetes risk model configurations
+│   ├── artifact/                  # Saved binary transformers and scaler assets
+│   ├── catboost/                  # Gradient boosted tree ensembles
+│   ├── config/                    # Hyperparameter and path definitions
+│   ├── dataprep.py                # Missing value imputation and normalization pipelines
+│   ├── feature_engineer.py        # Outlier tracking and interaction term extraction
+│   ├── model.py                   # Global model loading and prediction wrapper
+│   └── evaluation.py              # Precision, Recall, and ROC-AUC benchmarking
+│
+├── login/                         # Multi‑tier compartmentalized dashboard views
+│   ├── admin_dashboard.py         # Administrative operations module
+│   ├── doc.py                     # Clinical operational viewports (Dr. Bharath interface)
+│   └── user_dashboard.py          # Client metric tracking panel
+│
+├── storage/                       # Persistent JSON Telemetry Engine
+│   ├── subscription.json          # Portal subscription tiers
+│   ├── chatstore.json             # Encrypted clinical conversation logs
+│   ├── admin_trans.json           # Administrative system modification logs
+│   └── user_trans.json            # Patient predictive computation logs
+│
+├── assets/                        # Design Systems & Visual Media Assets
+│   ├── logo.png                   # High‑resolution neural glow asset
+│   ├── positive.png               # High-contrast positive diagnostic indicator icon
+│   ├── negative.png               # High-contrast negative diagnostic indicator icon
+│   ├── background1.jpg            # Sidebar layout layout canvas
+│   ├── background2.jpg            # Supplementary workspace backdrop
+│   └── background3.jpg            # High‑contrast core workspace background asset
+│
+└── frontend/                      # Streamlit UI Orchestration Workspace
+    ├── app.py                     # Main orchestration gateway entry point
+    ├── feedback.py                # User experience and clinical feedback capture
+    ├── manualaccess.py            # Override interface for manual operational entry
+    ├── secret-auth.py             # Core cryptographic hashing and authentication logic
+    └── logger.py                  # Async telemetry logging engine
+
+```
 
 ---
 
 ## 🛠️ System Technology Stack
-- **Core Engine:** Streamlit Web Framework  
-- **Identity Management:** Custom authenticated login UI widget framework with remote token mappings (`courier_auth_token`)  
-- **Graphics Processing:** Pillow (PIL) binary rendering pipeline  
-- **Design Systems:** Base64 asset injection pipelines, custom CSS injection, Google Fonts API  
 
----
-
-## 📂 Project Directory Structure
-```text
-├── app.py                      # Main orchestration gateway entry point
-├── logger.py                   # Async telemetry logging engine
-├── background1.jpg              # Sidebar graphical background configuration
-├── background7.jpg              # High‑contrast core workspace background asset
-├── logo3.png                    # High‑resolution neural glow asset
-└── Login/                       # Multi‑tier compartmentalized dashboard views
-    ├── admin_dashboard.py       # Administrative operations module
-    ├── doc.py                   # Clinical operational viewports
-    └── user_dashboard.py        # Client metric tracking panel
-```
+* **Core UI Engine:** Streamlit Web Framework (v2022 deployment baseline)
+* **Predictive Architecture:** CatBoost Classifier, Scikit-Learn Pipeline
+* **Identity Management:** Custom authenticated login UI widget framework with remote token mappings (`streamlitauthui`)
+* **Graphics Processing:** Pillow (PIL) binary rendering pipeline
+* **Design Systems:** Base64 asset injection pipelines, custom CSS injection, Google Fonts API
 
 ---
 
 ## 🚀 Local Initialization and Setup
 
 ### Prerequisites
-- Python 3.9 or higher installed in an isolated virtual environment.
+
+* Python 3.9 or higher installed in an isolated virtual environment.
 
 ### 1. Install Dependencies
+
+Run the installation targeted at the dependencies manifest located in the root directory:
+
 ```bash
-pip install streamlit pillow streamlit-login-auth-ui
+pip install -r requirements.txt
+
 ```
 
-### 2. Verify Asset Placement
-Ensure `background1.jpg`, `background7.jpg`, and `logo3.png` are located in the repository root directory.
+### 2. Launch the Application
 
-### 3. Launch the Application
+Navigate to the orchestration workspace containing `app.py` and run the interface engine using Python's standard module pathway:
+
 ```bash
-streamlit run app.py
+cd frontend
+python -m streamlit run app.py
+
 ```
-Access locally via: **http://localhost:8501**
+
+Access locally via your web browser: **http://localhost:8501**
 
 ---
 
-## ⚙️ Structural Code Overview
-
-### Streamlit Tab Layout Overrides
-```css
-/* Removes fade styling masks in default Streamlit containers */
-div[data-testid="stTabs"] > div {
-    -webkit-mask-image: none !important;
-    mask-image: none !important;
-}
-div[data-testid="stTabs"]::after {
-    display: none !important;
-}
-```
+## ⚙️ Structural Code Highlights
 
 ### Event Routing & Privilege Escalation
+
 ```python
 if LOGGED_IN:
     username = st.session_state.get("USERNAME", "guest")
@@ -84,44 +127,40 @@ if LOGGED_IN:
     if role == "admin":
         show_admin_dashboard(username)
     elif role == "doctor":
-        show_doc_dashboard(username)
+        # Routes directly to clinical viewport assigned to Dr. Bharath (152004)
+        show_doc_dashboard(username) 
     else:
         show_user_dashboard(username)
+
 ```
 
 ---
 
 ## 📖 Usage
-- Log in with your assigned role (`admin`, `doctor`, or `user`).  
-- Explore dashboards tailored to your privilege level.  
-- Track audit logs and verify session isolation.  
-- Customize UI themes with provided background assets.  
+
+1. Log in using your designated access profile (`admin`, `doctor`, or `user`).
+2. **Clinicians (`doctor`)** can navigate to the chat module to schedule appointments or communicate using the credentials tied to `Dr.Bharath`.
+3. Run live risk assessments using the modular pipeline under the `code/` folder to process raw clinical inputs against pre-trained CatBoost models.
+4. System metrics and transactions can be audited dynamically inside the `admin_trans.json` and `user_trans.json` profiles.
 
 ---
 
 ## 🤝 Contributing
-Contributions are welcome!  
-- Fork the repository  
-- Create a new branch  
-- Submit a pull request  
 
-For major changes, open an issue first to discuss what you’d like to change.
+Contributions are welcome! Please fork the repository, build on a feature branch, and submit a pull request. For extensive updates to the ML pipeline configuration, open an issue first to align changes with the core `evaluation.py` criteria.
 
 ---
 
 ## 👨‍💻 Author
-**Bharath Raj**  
+
+**Bharath Raj**
+
 GitHub: [Bharathrajzero](https://github.com/Bharathrajzero)
 
 ---
 
 ## 📝 Compliance & Attribution
-- **Distribution Engine:** Internal Proprietary Platform  
-- **System Operations Framework:** Engineered and Maintained by **AlphaGroup** © 2025  
 
----
-
-## 📜 License
-This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup.  
-
----
+* **Distribution Engine:** Internal Proprietary Platform
+* **System Operations Framework:** Engineered and Maintained by **AlphaGroup** © 2025
+* **License:** This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup.
