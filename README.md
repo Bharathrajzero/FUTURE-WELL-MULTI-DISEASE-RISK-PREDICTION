@@ -27,6 +27,7 @@
   </tr>
 </table>
 
+---
 ## ⚡ Core Platform Features
 
 * **Dynamic Role‑Based Access Control (RBAC):** Automated login UI state manager that queries session vectors and mounts distinct interfaces based on user authorization.
