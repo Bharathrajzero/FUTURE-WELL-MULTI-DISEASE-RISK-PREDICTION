@@ -3,6 +3,29 @@
 **Future Well** is an intelligent, high‑performance enterprise healthcare web portal built using the Streamlit framework. It features secure multi‑tier user classification paths, intercepts user login packets, writes structural audit trails via a JSON tracking engine, and dynamically switches execution panels depending on administrative, clinical, or client privilege vectors. The platform integrates advanced machine learning architectures (including CatBoost) to provide predictive insights for multi-disease risks.
 
 ---
+## Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d4d104df-6a89-4712-ae51-61ba30a5d00c" width="100%" alt="Dashboard View 1"/></td>
+    <td><img src="https://github.com/user-attachments/assets/262a0bb1-aabe-48ba-92b6-284b2b1212ca" width="100%" alt="Dashboard View 2"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/803b0383-f608-4129-9dd5-5e1ca32bc6e8" width="100%" alt="Dashboard View 3"/></td>
+    <td><img src="https://github.com/user-attachments/assets/baf9c794-8dfb-4f63-852c-5962751e61bf" width="100%" alt="Dashboard View 4"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e56f5921-d76d-4c11-953c-3b84a230599a" width="100%" alt="Dashboard View 5"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8be1f7cb-190f-48c5-914f-4f9d01427078" width="100%" alt="Dashboard View 6"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/786e751c-b2a8-4ff6-8f81-95822b9468b4" width="100%" alt="Dashboard View 7"/></td>
+    <td><img src="https://github.com/user-attachments/assets/94868842-5923-4d0b-a32c-e1064593a8e1" width="100%" alt="Dashboard View 8"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9e3c3765-439e-46d6-b0d3-80ccb9879af4" width="100%" alt="Dashboard View 9"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0d90ccca-adfe-434e-837b-cbc561f18a90" width="100%" alt="Dashboard View 10"/></td>
+  </tr>
+</table>
 
 ## ⚡ Core Platform Features
 
